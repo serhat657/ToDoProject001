@@ -31,6 +31,8 @@ dependencies:
   flutter:
     sdk: flutter
 
+  shared_preferences:       #bu paket basit veri depolama ihtiyaçlarını karşılar sadece key-value şeklinde verileri saklar.
+
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.

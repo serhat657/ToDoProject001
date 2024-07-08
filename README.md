@@ -1,16 +1,47 @@
-# todoprojem
 
-A new Flutter project.
+# To do app
 
-## Getting Started
+Bu proje, basit görevlerimizi hatırlatmak ve yönetmek için oluşturulmuş bir To Do uygulamasıdır.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Özellikler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅Görev ekleme, güncelleme ve silme
+
+✅Görevlerin tamamlanma durumunu belirleme
+
+✅ Görev listesini görüntüleme
+
+
+
+
+  
+## ❓Kullanım
+
+✅Görev Ekleme:
+
+Yeni bir görev eklemek için "+" butonuna tıklayın ve gerekli bilgileri girin.
+
+✅Görev Güncelleme:
+
+Bir görevi güncellemek için görev listesinden ilgili göreve tıklayın ve bilgileri güncelleyin.
+
+✅Görev Silme:
+
+Bir görevi silmek için görev listesinden ilgili göreve uzun basın ve silme butonuna tıklayın.
+
+
+
+  
+## Katkıda Bulunanlar
+
+Katkılarınızı bekliyoruz! Lütfen pull request gönderin veya issue açın
+  
+## İletişim
+Sorularınız veya önerileriniz için serhat655_655@hotmail.com adresine e-posta gönderebilirsiniz.
+
+
+
+  
+

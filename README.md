@@ -2,6 +2,10 @@
 
 This project is a To Do application created to remind and manage our simple tasks.
 
+## Screenshots
+![Merged_document](https://github.com/user-attachments/assets/883b872f-ac4d-480b-81fb-b95c9660c61d)
+
+
 ## Features
 
 - **✅ Add, update, and delete tasks**

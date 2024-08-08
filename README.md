@@ -1,47 +1,23 @@
+# To Do App
 
-# To do app
+This project is a To Do application created to remind and manage our simple tasks.
 
-Bu proje, basit görevlerimizi hatırlatmak ve yönetmek için oluşturulmuş bir To Do uygulamasıdır.
+## Features
 
+- **✅ Add, update, and delete tasks**
+- **✅ Mark tasks as completed**
+- **✅ View the task list**
 
-## Özellikler
+## Usage
 
+- **✅ Add a Task**: Click the "+" button to add a new task and enter the required information.
+- **✅ Update a Task**: Click on the relevant task from the task list to update it and update the information.
+- **✅ Delete a Task**: Long press on the relevant task from the task list and click the delete button to remove it.
 
-✅Görev ekleme, güncelleme ve silme
+## Contributors
 
-✅Görevlerin tamamlanma durumunu belirleme
+We welcome your contributions! Please send pull requests or open issues.
 
-✅ Görev listesini görüntüleme
+## Contact
 
-
-
-
-  
-## ❓Kullanım
-
-✅Görev Ekleme:
-
-Yeni bir görev eklemek için "+" butonuna tıklayın ve gerekli bilgileri girin.
-
-✅Görev Güncelleme:
-
-Bir görevi güncellemek için görev listesinden ilgili göreve tıklayın ve bilgileri güncelleyin.
-
-✅Görev Silme:
-
-Bir görevi silmek için görev listesinden ilgili göreve uzun basın ve silme butonuna tıklayın.
-
-
-
-  
-## Katkıda Bulunanlar
-
-Katkılarınızı bekliyoruz! Lütfen pull request gönderin veya issue açın
-  
-## İletişim
-Sorularınız veya önerileriniz için serhat655_655@hotmail.com adresine e-posta gönderebilirsiniz.
-
-
-
-  
-
+For questions or suggestions, you can send an email to serhat655_655@hotmail.com.
